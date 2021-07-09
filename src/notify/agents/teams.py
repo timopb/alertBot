@@ -23,7 +23,7 @@ class Teams(IFaceNotify):
             "@type": "MessageCard",
             "@context": "http://schema.org/extensions",
             "themeColor": "0076D7",
-            "summary": "Suricata Security Alert",
+            "summary": "Security Alert",
             "sections": [{
                 "activityTitle": title,
                 "activitySubtitle": msg,

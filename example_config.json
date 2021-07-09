@@ -57,6 +57,11 @@
               "name": "webhook",
               "enabled": false,
               "url": "webhook url"
+            },
+            {
+              "name": "teams",
+              "enabled": false,
+              "url": "teams connector webhook url"
             }
         ]
   },
